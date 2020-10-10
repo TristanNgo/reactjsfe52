@@ -5,7 +5,7 @@ export default function Header() {
     <nav className="navbar navbar-expand-md navbar-dark bg-dark">
       <div className="container-fluid">
         <a href="#" className="navbar-brand">
-          CyberSoft
+          SmartPhone
         </a>
         <button
           className="navbar-toggler"
